@@ -1,0 +1,8 @@
+Oláa, neste repositório temos um projeto que tem como objetivo, apresentar as ideias e fatos encontrados a partir da análise de predição por sintomas que influenciam no diagnóstico de endometriose, contendo, conclusões e recomendações para posteriores ponderações e ações.
+
+Objetivos da análise:
+- Analisar como a variável Diagnóstico se relaciona com as variáveis dos sintomas.
+- Construir um modelo que prevê quais são os sintomas mais significativos para o diagnóstico da endometiose.
+
+Observação
+- Estou ciente que tem modelos melhores para este caso, mas, como estou realizando estudos estatísticos, portanto, preferi utilizar o modelo presente.
